@@ -1,6 +1,6 @@
 # Another CLI to learn Rust
 
-This is just another CLI app to learn Rust.
+A (basic) replica of `cowsay` CLI.
 
 ## Features
 
